@@ -11,7 +11,7 @@
 </div>
 
 
-<h2 align="center">🎖 My GitPOAPs Collection</h2>
+<h2 align="center"><a href="https://www.gitpoap.io/p/0x8c775808fffbb99208452698bc619cf9d07d8b2e">🎖 My GitPOAPs Collection</a></h2>
 <p align="center">
   <a href="https://www.gitpoap.io/gp/49"><img src="https://assets.poap.xyz/gitpoap-2022-poapgallery-contributor-2022-logo-1649268307923.png" alt="2022 Contributor" height="100" width="100"></a>
   <a href="https://www.gitpoap.io/gp/48"><img src="https://assets.poap.xyz/gitpoap-2021-poapgallery-contributor-2021-logo-1649268211499.png" alt="2021 Contributor" height="100" width="100"></a>
