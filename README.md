@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <a href="www.linkedin.com/in/rodrigo-lajous">LinkedIn</a> | 
+  <a href="https://www.linkedin.com/in/rodrigo-lajous">LinkedIn</a> | 
   <a href="https://www.navarrolajous.com/">Portfolio</a> | 
   <a href="https://www.navarrolajous.com/resume.pdf">CV</a>
 </div>
