@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <rect width="800" height="200" fill="#1C1612"/>
+  <text x="40" y="90" fill="#F5F0EB" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="6">RODRIGO LAJOUS</text>
+  <text x="40" y="130" fill="#A89888" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="400" letter-spacing="3">STAFF ENGINEER · WEB3 SECURITY · BUILDING FROM EVERYWHERE</text>
+  <rect x="40" y="160" width="720" height="3" fill="#E89419" rx="1"/>
+</svg>
