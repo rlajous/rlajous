@@ -12,7 +12,7 @@ I speak at places like [ETHDenver](https://youtu.be/GENujsJ3szI) about catching 
 
 <p>
   <a href="https://navarrolajous.com">navarrolajous.com</a> &#8226;
-  <a href="https://linkedin.com/in/rodrigo-lajous">LinkedIn</a> &#8226;
+  <a href="https://www.linkedin.com/in/rodrigo-lajous">LinkedIn</a> &#8226;
   <a href="https://twitter.com/ro_lajous">@ro_lajous</a> &#8226;
   <a href="https://navarrolajous.com/resume.pdf">Resume</a>
 </p>
