@@ -53,13 +53,17 @@ I speak at places like [ETHDenver](https://youtu.be/GENujsJ3szI) about catching 
 | [**Webacy**](https://webacy.com) | Web3 security infrastructure — detecting threats at deploy-time, not after the damage. |
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rlajous&theme=transparent&hide_border=true&ring=E89419&fire=E89419&currStreakLabel=E89419&sideLabels=888888&dates=555555&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=rlajous&theme=transparent&hide_border=true&ring=E89419&fire=E89419&currStreakLabel=E89419&sideLabels=888888&dates=555555&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=rlajous&theme=transparent&hide_border=true&ring=E89419&fire=E89419&currStreakLabel=C47A10&sideLabels=888888&dates=AAAAAA&currStreakNum=1C1612&sideNums=1C1612" />
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=rlajous&theme=transparent&hide_border=true&ring=E89419&fire=E89419&currStreakLabel=E89419&sideLabels=888888&dates=555555&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+  </picture>
 </div>
 
 ### Talks
 
 I've spoken at **ETHDenver**, **DuneCon**, and the **DeFi Security Summit** about on-chain threat detection and behavioral security.
-[Watch my latest talk ->](https://youtu.be/GENujsJ3szI)
+[Watch my latest talk →](https://youtu.be/GENujsJ3szI)
 
 ---
 
