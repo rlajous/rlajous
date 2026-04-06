@@ -4,9 +4,9 @@
   </a>
 </div>
 
-I build security infrastructure for Web3 at [Webacy](https://webacy.com).
-Previously, I created the [POAP SDK](https://github.com/poap-xyz/poap-sdk) and led engineering at [POAP](https://poap.xyz).
-I speak at [ETHDenver](https://www.ethdenver.com/) about catching bad actors on-chain before they strike.
+Staff Engineer at [Webacy](https://webacy.com), working on behavioral threat detection for Web3.
+Before that I built the [POAP SDK](https://github.com/poap-xyz/poap-sdk) and led engineering at [POAP](https://poap.xyz) for three years.
+From Buenos Aires, now building from wherever.
 
 <p>
   <a href="https://navarrolajous.com">navarrolajous.com</a> &#8226;
@@ -17,8 +17,9 @@ I speak at [ETHDenver](https://www.ethdenver.com/) about catching bad actors on-
 
 ---
 
-### Stack
-
+<details>
+<summary><b>Stack</b></summary>
+<br>
 <table>
   <tr>
     <td><b>Frontend</b></td>
@@ -41,6 +42,7 @@ I speak at [ETHDenver](https://www.ethdenver.com/) about catching bad actors on-
     <td>Cryptography, Zero-Knowledge Proofs, OAuth2, JWT</td>
   </tr>
 </table>
+</details>
 
 ### What I've Built
 
@@ -60,5 +62,5 @@ I speak at [ETHDenver](https://www.ethdenver.com/) about catching bad actors on-
 
 ### Talks
 
-I've spoken at **ETHDenver**, **DuneCon**, and the **DeFi Security Summit** about on-chain threat detection and behavioral security.
+I talk about detecting threats on-chain before they happen — at [ETHDenver](https://www.ethdenver.com/), [DuneCon](https://dune.com/dunecon/), and the [DeFi Security Summit](https://defisecuritysummit.org/).
 [Behavior-Based Security for the Next Billion On-Chain Users →](https://youtu.be/GENujsJ3szI)
