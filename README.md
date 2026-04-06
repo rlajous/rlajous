@@ -62,15 +62,3 @@ I speak at [ETHDenver](https://www.ethdenver.com/) about catching bad actors on-
 
 I've spoken at **ETHDenver**, **DuneCon**, and the **DeFi Security Summit** about on-chain threat detection and behavioral security.
 [Behavior-Based Security for the Next Billion On-Chain Users →](https://youtu.be/GENujsJ3szI)
-
----
-
-<div align="center">
-  <sub>
-    <a href="https://www.gitpoap.io/p/0x8c775808fffbb99208452698bc619cf9d07d8b2e">GitPOAP Collection</a> &#8212;
-    <a href="https://www.gitpoap.io/gp/49"><img src="https://assets.poap.xyz/gitpoap-2022-poapgallery-contributor-2022-logo-1649268307923.png" height="48" width="48" alt="2022 Contributor"></a>
-    <a href="https://www.gitpoap.io/gp/48"><img src="https://assets.poap.xyz/gitpoap-2021-poapgallery-contributor-2021-logo-1649268211499.png" height="48" width="48" alt="2021 Contributor"></a>
-    <a href="https://www.gitpoap.io/gp/27"><img src="https://assets.poap.xyz/gitpoap-2021-poapfun-contributor-2021-logo-1649266585011.png" height="48" width="48" alt="2021 POAPFun"></a>
-    <a href="https://www.gitpoap.io/gp/28"><img src="https://assets.poap.xyz/gitpoap-2022-poapfun-contributor-2022-logo-1649266640542.png" height="48" width="48" alt="2022 POAPFun"></a>
-  </sub>
-</div>
