@@ -5,7 +5,7 @@
 </div>
 
 I build security infrastructure for Web3 at [Webacy](https://webacy.com).
-Previously, I created [POAP.js](https://github.com/poap-xyz/poap.js) and led engineering at [POAP](https://poap.xyz).
+Previously, I created the [POAP SDK](https://github.com/poap-xyz/poap-sdk) and led engineering at [POAP](https://poap.xyz).
 I speak at [ETHDenver](https://www.ethdenver.com/) about catching bad actors on-chain before they strike.
 
 <p>
@@ -46,9 +46,9 @@ I speak at [ETHDenver](https://www.ethdenver.com/) about catching bad actors on-
 
 | Project | What it is |
 |---------|-----------|
-| [**POAP.js**](https://github.com/poap-xyz/poap.js) | Open-source SDK that cut POAP ecosystem integration time by 50%. |
-| [**Windows 98 Web3**](https://github.com/rlajous/windows-98-web3) | Windows 98 desktop rebuilt in Next.js with WalletConnect. |
-| [**Webacy**](https://webacy.com) | Web3 security infrastructure — detecting threats at deploy-time, not after the damage. |
+| [**POAP SDK**](https://github.com/poap-xyz/poap-sdk) | TypeScript SDK for the POAP ecosystem — published to NPM, used across integrations. |
+| [**Claude Code Commands**](https://github.com/rlajous/claude-code-commands) | Slash commands, subagents & hooks for Claude Code — zero-config Git workflow automation. |
+| [**Windows 98 Web3**](https://github.com/rlajous/windows-98-web3) | Windows 98 desktop rebuilt in Next.js with Wagmi wallet integration. |
 
 <div align="center">
   <picture>
